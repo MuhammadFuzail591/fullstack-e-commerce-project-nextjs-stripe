@@ -1,0 +1,6 @@
+
+To install ts-node
+npm i --save-dev ts-node
+
+//To install prisma
+npm install prisma --save-dev
